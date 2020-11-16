@@ -2,6 +2,8 @@
 
 # Offline (PWA) Budget Tracker
 
+<img src="offlinebt.png">
+
 ## Table of Contents
 * [Description](#Description)
 * [Installation Instruction](#Installation-Instructions)
